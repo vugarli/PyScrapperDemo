@@ -1,2 +1,4 @@
 # PyScrapperDemo
-Simple scrapper for scrapping "azertag.az"
+Old project of mine. Simple scrapper for scrapping "azertag.az"
+
+
